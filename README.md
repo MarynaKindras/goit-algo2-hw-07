@@ -140,5 +140,5 @@ Compare their efficiency by measuring the average execution time for each approa
 ![task_1_results](assets/task_01.jpg)
 
 **Task 2**
-![task_2_results](C:\Projects\goit-algo2-hw-07\assets\task_02_graph.png)
+![task_2_results](assets/task_02_graph.png)
 ![task_2_results](assets/task_02.jpg)
